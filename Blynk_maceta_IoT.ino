@@ -15,8 +15,8 @@
 #include <BlynkSimpleEsp8266.h>
 
 char auth[] = BLYNK_AUTH_TOKEN;
-char ssid[] = "ASUS"; //Escribe el nombre la red WiFi
-char pass[] = "111sssaaa"; //Escribe la contraseña de la red WiFi
+char ssid[] = "telecomunicaciones"; //Escribe el nombre la red WiFi
+char pass[] = "telecom2025"; //Escribe la contraseña de la red WiFi
 
 BlynkTimer timer;
 
