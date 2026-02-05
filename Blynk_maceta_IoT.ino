@@ -1,5 +1,5 @@
 /*
- * Taller IoT PUCP Verano 2025
+ * Taller IoT PUCP Verano 2026
  * Ingeniería de las Telecomunicaciones 
  * Proyecto: Maceta IoT
  * Actividad: Detectar y monitorear la humedad de la planta en una maceta
